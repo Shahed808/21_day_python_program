@@ -1,0 +1,10 @@
+''' practising file handling system'''
+f1 = open('python_file_1.txt','x')
+# f1 = open('python_file_1.txt','w')
+# f1.write("Welcome! to coding world")
+# f1.close()
+# f1 = open('python_file_7','a')
+# f1.write("\ntogether lets solve the problems")
+# f1.close()
+# f1=open('python_file_2','r')
+# print(f1.read())
